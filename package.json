@@ -25,7 +25,7 @@
     "@ant-design/v5-patch-for-react-19": "1.0.x",
     "@electron-toolkit/preload": "3.0.x",
     "@electron-toolkit/utils": "4.0.x",
-    "ahooks": "^3.9.6",
+    "ahooks": "3.9.x",
     "antd": "5.29.x",
     "tailwindcss": "4.1.x"
   },

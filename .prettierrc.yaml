@@ -4,6 +4,6 @@ printWidth: 160
 semi: false
 singleQuote: true
 tabWidth: 2
-tailwindStylesheet: "./src/assets/main.css"
+# tailwindStylesheet: "./src/assets/main.css"
 trailingComma: none
 useTabs: false
